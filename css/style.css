@@ -7,7 +7,7 @@ li {
   list-style: none!important;
 }
 html {
-  
+  width: 1280px;
 }
 @font-face {
   font-family: 'DIN Next Stencil Medium';
