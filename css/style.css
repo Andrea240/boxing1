@@ -694,7 +694,7 @@ h1 {
   height: 35%;
   top: 0;
   left: 0;
-  border-left: 2px solid red;
+  border-left: 8px solid red;
   z-index: 10;
   border-top: 2px solid red;
 }
